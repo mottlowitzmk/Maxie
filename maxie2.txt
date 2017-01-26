@@ -2,8 +2,6 @@
 
 
 
-
-
 Purple 
 Red
 Blue 
@@ -16,7 +14,7 @@ COlors!
 8
 7
 
-Add number 8
+8
 9
 1+35=?
 Trying to make it a little more complicated and complex. 
